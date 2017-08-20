@@ -45,6 +45,10 @@
 	text-align: center
 }
 
+.lefted {
+  text-align: left;
+}
+
 .mt {
 	margin-top: 5px;
 }
@@ -52,6 +56,20 @@
 .mb {
 	margin-bottom: 35px;
 }
+
+.padright {
+  padding-right: 30px
+}
+
+.padleft {
+  padding-left: 30px
+}
+
+.padtop {
+  padding-top: 30px
+}
+
+
 
 /* ==========================================================================
    General styles
@@ -208,7 +226,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 45px;
-  text-align: center;
   max-width: 1440px;
 }
 
