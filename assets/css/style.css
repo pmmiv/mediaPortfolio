@@ -69,6 +69,10 @@
   padding-top: 30px
 }
 
+.padbot {
+  padding-bottom: 30px
+}
+
 .imgfull {
     width: 100%
 }
@@ -116,6 +120,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-default .navbar-nav > li > a {
 	color: #1abc9c;
+}
+
+.shadow {
+  box-shadow: 5px 5px 2px #888888
 }
 
 /* ==========================================================================
