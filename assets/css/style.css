@@ -41,6 +41,10 @@
     padding: 0;
 }
 
+#works {
+  margin-bottom: 40px;
+}
+
 .centered {
 	text-align: center
 }
